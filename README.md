@@ -1,4 +1,4 @@
-# Fun JavaScript Scripts/有趣的JavaScript脚本
+# ☺️Fun JavaScript Scripts/有趣的JavaScript脚本☺️
 
 欢迎来到我的有趣JavaScript脚本收藏！这些脚本为您的网络体验增添了一丝乐趣和创意。随意探索并将它们集成到您的项目中。
 <br>
@@ -25,4 +25,4 @@ Combine the power of colorful hearts and the expression of "Socialist Core Value
 随意使用这些脚本为您的网页项目增添一些乐趣和正能量。愉快的编码！
 Feel free to use these scripts to bring some fun and positivity to your web projects. Happy coding!
 
-☺️
+
