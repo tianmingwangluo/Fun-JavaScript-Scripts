@@ -25,3 +25,4 @@ Combine the power of colorful hearts and the expression of "Socialist Core Value
 随意使用这些脚本为您的网页项目增添一些乐趣和正能量。愉快的编码！
 Feel free to use these scripts to bring some fun and positivity to your web projects. Happy coding!
 
+☺️
